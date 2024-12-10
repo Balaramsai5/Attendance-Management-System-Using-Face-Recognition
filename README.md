@@ -42,7 +42,4 @@ Attendance Management System based on Face Recognition using Python  and OpenCv
 - It will require high processing power(I have 8 GB RAM)
 - Noisy image can reduce the accuracy, so quality of images should be good.
 
-⭐️ Support the project
-If you like this project and find it useful, please consider giving it a star! ⭐️
 
-Your support helps to increase the visibility of the project and motivates me to continue improving it. Thank you! 🙏
